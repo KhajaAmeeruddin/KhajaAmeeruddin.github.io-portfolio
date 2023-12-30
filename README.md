@@ -54,13 +54,11 @@ Swapna Enterprises PVT LTD, Telangana, India - 500081
 
 <p>Click on the below format images to download my cv<p>
 <a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.docx" download>
-  <img src="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io/main/assets/img/msword.png" alt="mswordimage">
+  <img src="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/img/msword.png" alt="mswordimage">
 </a> 
 <a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" download>
-  <img src="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io/main/assets/img/pdf.png" alt="pdfimage">
+  <img src="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/img/pdf.png" alt="pdfimage">
 </a> 
 <br>
 <br>
 <a href="https://github.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/blob/main/assets/New%20CV%20and%20Cover%20Letter/CV.pdf" target="_blank">click to here to view my CV!</a>
-
-<a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" target="_blank">click to here to view my diueCV!</a>
