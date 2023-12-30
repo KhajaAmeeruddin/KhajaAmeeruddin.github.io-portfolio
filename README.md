@@ -58,8 +58,7 @@ Handling the Bills, Invoices and updating in Tally Accounting software. Interact
 <a href="https://instagram.com/karthikbabu_gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikbabu_gk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-https://github.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio
-assets
+
 <p>Click on the below format images to download my cv<p>
 <a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.docx" download>
   <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/msword.png" alt="mswordimage">
@@ -69,5 +68,5 @@ assets
 </a> 
 <br>
 <br>
-<a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" target="_blank">click to here to view my CV!</a>
+<a href="https://github.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/blob/main/assets/New%20CV%20and%20Cover%20Letter/CV.pdf" target="_blank">click to here to view my CV!</a>
 
