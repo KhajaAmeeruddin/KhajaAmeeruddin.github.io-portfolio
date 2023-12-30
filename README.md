@@ -1,72 +1,66 @@
-# Devops developer
-### Technical Skills: Java, SQL, AWS, Maven, Jenkins, Docker
+# Network Enigneer
+### Technical Skills: SSL/VPN, OSPF Routing, Bitbucket,Github, Tcp/IP ,DHCP, DNS, Network Security, Cisco Router and Switching configuration, Wireshark tool,Solarwind Monitoring tool,BMC Remedy Ticketing Tool, 
 
 ### Education							       		
-- M.B.A, 	| Wrexham Glyndwr university at Wrexham (_December 2022_)	 			        		
-- B.Tech., ECE | Jawaharlal Nehru Technological University Hyderabad (_May 2015_)
+- MSC, 	|Computer Network and Systems Security with advanced Research | Hertfordshire  university at Hatfield (_February 2023_)	 			        		
+- B.Tech., EEE | Jawaharlal Nehru Technological University Hyderabad (_May 2015_)
 
 ### Work Experience
-**  **Security Supervisor |MITIE SECURITY PVT LTD Feb 2023 – Dec 2023**  
-Crowne Plaza, Kingston Surbiton, London – KT6 5QQ 
+**  **Network Engineer |ALPINIA TECHNOLOGIES PVT LTD Jan 2018 – Jan 2021**  
+Hyderabad
 --------------------------------------------------
-I supervise a team of security officers at one of London's most prestigious sites. Our role is to provide security for the people who stay in the hotel and to protect the integrity of the building. 
+Results-driven Network Engineer with 3 years of expertise configuration , troubleshooting and maintaining LAN and WAN infrastructure. Dedicated technology professional with strong track record of accurately conducting system repairs and troubleshooting. Offering exemplary planning, project management and communication talents
 
-Skills: Operations Management • Analytical Skills • Communication • Employee Training • Team Management • Continuous Improvement • Networking
+Skills:Cisco packet Tracer.Wireshark,Solarwind. Operations Management • Analytical Skills • Communication  • Team Management • Continuous Improvement • Networking. Network performance monitoring.Layer 2/3 protocols.
 
-** **Helpdesk Admin  Sep 2022 – Feb 2023**  
-Northwick Park Hospital | Harrow | London – HA1 3UJ 
+Responsibilities:
+•	Responsible for solving trouble tickets raised by users without violating SLA.
+•	Responsible for IP routing using BGP, OSPF, Static Routers and switching using STP/VTP/VLAN.
+•	Monitored network devices (Cacti, Solar wind & Sys log's Messages) and reported on traffic and statistics to maintain appropriate performance.
+•	Interfaced with vendor support service groups to ensure proper escalation during outages or periods of degraded system performance.
+•	Managed testing, installation, and support of network communications, including LAN/MAN/WAN systems.
+•	Maintained backup of IOS, Startup, and running configuration.
+•	Configuring VLANs/Routing with firewalls as per network design.
+•	Configured and performed troubleshooting on link state protocols like OSPF in single area and multiple areas.
+
+** **Electrical Site Engineer  Feb 2017 – Nov 2017**  
+Landslide Trading and contracting company | Qatar | Doha.
 --------------------------------------------------- 
-Provided efficient helpdesk support to resolve technical issues, maintained documentation, and collaborated with IT teams, using a ticketing system. Streamlined processes resulted in a 20% reduction in resolution time.
+•	Coordinated materials delivery and organization to maintain smooth flow of work.
+•	Read and interpreted blueprints, diagrams, and schematics to correctly coordinate work
+•	Evaluated electrical installations and systems to isolate faults and implement corrective actions
+•	Leveraged mastery of AutoCAD Electrical Toolset to develop and document electrical schematics
 
- Skills: Ability to manage multiple support requests, good communication skills, strong knowledge of hardware-software & networking fundamentals, and proficiency in Ubuntu Linux commands and Windows OS.
+ Skills: Autocad,Electrical designing, Site Inspection, Manage smooth flow of work.
 
-Achievements: Received consistent positive feedback from users for excellent customer service; quick problem solver award internal team of continuous 2 months.
 
-  
-** **OPERATION EXECUTIVE June 2018 - February 2019** 
-TCS-ION | Deccan Park HITEC City, Madhapur, Telangana, India - 500081  
+** **Electrical Engineer** Jan 2015 - Jan 2017
+Swapna Enterprises PVT LTD, Telangana, India - 500081  
 ---------------------------------------------------------------------  
-Operation Executive role usually changes depending on the type of project. And My roles are Network Admin, Monitoring Servers, identifying technical errors fixing, and Conducting exams online for at least 500 Candidates and monitoring to Finish the Exam peacefully.
 
-**Awards**
-March-2019 
-One-time Milestone Achievement Reward 
-In appreciation of efforts, hard work and dedication towards running exams. The client company has announced this Reward.
+•	Evaluated electrical installations and systems to isolate faults and implement corrective actions
+•	Performed maintenance procedures and repairs on existing electrical products and systems
+•	Used established formulae to calculate current loads and short circuit currents.
+•	Estimated project costs and resource allocation to forecast budget requirements and monitor adherence
 
-
-** **SALESPERSON February 2019 - March 2020** 
-Varun Agencies | Charbouli, Warangal Telangana, India – 506002 
---------------------------------------------------------------- 
-Handling the Bills, Invoices and updating in Tally Accounting software. Interacting with clients, taking new orders, and ensuring products are delivered on time. Handling the cash flow transactions and updating the Tally.
-
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karthikganji" alt="karthikganji" /></a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthikganji&show_icons=true&locale=en&layout=compact" alt="karthikganji" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthikganji&show_icons=true&locale=en" alt="karthikganji" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthikganji&" alt="karthikganji" /></p>
 
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/@ganji_karthik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ganji_karthik" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karthikbabuganji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikbabuganji" height="30" width="40" /></a>
-<a href="https://fb.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
-<a href="https://instagram.com/karthikbabu_gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikbabu_gk" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khajaameeruddin-mohammed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karthikbabuganji" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ameeruddin.khaja.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mkameeruddin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikbabu_gk" height="30" width="40" /></a>
 </p>
 
 <p>Click on the below format images to download my cv<p>
 <a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.docx" download>
-  <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/msword.png" alt="mswordimage">
+  <img src="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io/main/assets/img/msword.png" alt="mswordimage">
 </a> 
 <a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" download>
-  <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/pdf.png" alt="pdfimage">
+  <img src="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io/main/assets/img/pdf.png" alt="pdfimage">
 </a> 
 <br>
 <br>
 <a href="https://github.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/blob/main/assets/New%20CV%20and%20Cover%20Letter/CV.pdf" target="_blank">click to here to view my CV!</a>
 
+<a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" target="_blank">click to here to view my diueCV!</a>
