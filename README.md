@@ -58,15 +58,16 @@ Handling the Bills, Invoices and updating in Tally Accounting software. Interact
 <a href="https://instagram.com/karthikbabu_gk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthikbabu_gk" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@nayamediaworks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
-
+https://github.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio
+assets
 <p>Click on the below format images to download my cv<p>
-<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/cvfiles/CV.docx" download>
+<a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.docx" download>
   <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/msword.png" alt="mswordimage">
 </a> 
-<a href="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/cvfiles/CV.pdf" download>
+<a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" download>
   <img src="https://raw.githubusercontent.com/karthikganji/karthikganji.github.io/main/assets/img/pdf.png" alt="pdfimage">
 </a> 
 <br>
 <br>
-<a href="https://www.github.com/karthikganji/karthikganji.github.io/blob/main/assets/cvfiles/CV.pdf" target="_blank">click to here to view!</a>
+<a href="https://raw.githubusercontent.com/KhajaAmeeruddin/KhajaAmeeruddin.github.io-portfolio/main/assets/New CV and Cover Letter/CV.pdf" target="_blank">click to here to view my CV!</a>
 
